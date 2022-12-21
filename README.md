@@ -7,7 +7,7 @@
 
 - Sanjida Sultana 0400036705
 
-## [Live Site] (https://sanjidaruma99.github.io/second-assessment/)
+## [Live Site](https://sanjidaruma99.github.io/second-assessment/)
 
 
 ## Screenshots
